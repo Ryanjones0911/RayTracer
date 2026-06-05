@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtuple_lib.a CMakeFiles/tuple_lib.dir/Src/tuple.cpp.o
+/usr/bin/ranlib libtuple_lib.a

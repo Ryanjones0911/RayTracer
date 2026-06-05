@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/all_tests.dir/Tests/tupleTests.cpp.o CMakeFiles/all_tests.dir/Src/Canvas.cpp.o CMakeFiles/all_tests.dir/Tests/canvasTests.cpp.o -o all_tests  lib/libgtest_main.a libtuple_lib.a lib/libgtest.a

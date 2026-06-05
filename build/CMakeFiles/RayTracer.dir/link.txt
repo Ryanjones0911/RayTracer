@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/RayTracer.dir/Src/main.cpp.o CMakeFiles/RayTracer.dir/Src/tuple.cpp.o CMakeFiles/RayTracer.dir/Src/Canvas.cpp.o -o RayTracer
